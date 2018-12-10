@@ -55,7 +55,7 @@ class AddOrEditActivity : AppCompatActivity() {
                     cal.get(Calendar.DAY_OF_MONTH)).show()
         }
 
-        val myStrings = arrayOf("Elegir ejercicio...", "Abdominales", "Piernas", "Obliquos", "Dominadas", "Flexiones", "Espalda", "Pecho")
+        val myStrings = arrayOf("Elegir ejercicio...", "Abdominales", "Piernas", "Oblicuos", "Dominadas", "Flexiones", "Espalda", "Pecho")
         mySpinner.adapter = ArrayAdapter(this, android.R.layout.simple_spinner_dropdown_item, myStrings)
 
 
@@ -69,14 +69,18 @@ class AddOrEditActivity : AppCompatActivity() {
 
                 var areaExercise = input_name
 
-                areaExercise.append(this.mySpinner.selectedItem.toString()+ " ")
+                if(areaExercise.text.toString().equals("")){
+                    areaExercise.append(this.mySpinner.selectedItem.toString())
+                }else{
+                    areaExercise.append(", " + this.mySpinner.selectedItem.toString())
+                }
 
                 var areaExercise2 = input_desc
 
                 areaExercise2.append(this.mySpinner.selectedItem.toString()+ ": " + "\n" + "\n")
 
 
-                val myStrings = arrayOf("Elegir ejercicio...", "Abdominales", "Piernas", "Obliquos", "Dominadas", "Flexiones", "Espalda", "Pecho")
+                val myStrings = arrayOf("Elegir ejercicio...", "Abdominales", "Piernas", "Oblicuos", "Dominadas", "Flexiones", "Espalda", "Pecho")
                 mySpinner.adapter = ArrayAdapter(this, android.R.layout.simple_spinner_dropdown_item, myStrings)
 
             }
