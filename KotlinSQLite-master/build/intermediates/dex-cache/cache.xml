@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Belilles\.android\build-cache\d1d3b5648da9808a0488f238f347bb621d44bfca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a8655e6077da9526c0c94bf063f1275430ce8574">
+        <dex dex="C:\Users\Belilles\Desktop\KotlinSQLite-master\app\build\intermediates\pre-dexed\debug\classes_6de43f33b21c3ac13682d72c0acb7e43a762780a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Belilles\.android\build-cache\22095e2a4395c8d5a40d2e475523e6d733f70fee\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="df733e6865d662899ec247e8c3dbff3e0961b8a7">
+        <dex dex="C:\Users\Belilles\Desktop\KotlinSQLite-master\app\build\intermediates\pre-dexed\debug\classes_9f6b59e9572447c1b36d93e66380504a796553f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Belilles\.android\build-cache\e61be3091be50cff50c163077f74813cc84d51f4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f7b86f1beb2b3625c6a1a5da6b5fc5294b64aea9">
+        <dex dex="C:\Users\Belilles\Desktop\KotlinSQLite-master\app\build\intermediates\pre-dexed\debug\classes_a2e7fb530c6207117cefa9c87f7273cea92d26b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Belilles\.android\build-cache\104039a4903a20b86b3b4055a00d35329cefa523\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8602ab07133e6ee182726fa27588420dba9d6d55">
+        <dex dex="C:\Users\Belilles\Desktop\KotlinSQLite-master\app\build\intermediates\pre-dexed\debug\classes_ed94cb8e0bc51d27c42018ef33c80107f1dd5316.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Belilles\.android\build-cache\5c79f59f75f2cdef430ecb65fd1c2abe0202c605\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2520dd452fb1f487eba29ccd2d44358f0b8da788">
+        <dex dex="C:\Users\Belilles\Desktop\KotlinSQLite-master\app\build\intermediates\pre-dexed\debug\classes_544ac9c3d2b90819ece626645b334ac7b19bcb1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Belilles\.android\build-cache\6ce754049890a16328a8d596a28af20e43273f4e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1a94a06ec585c9423a3c03bde1f7bf9268f83d66">
+        <dex dex="C:\Users\Belilles\Desktop\KotlinSQLite-master\app\build\intermediates\pre-dexed\debug\classes_e954c86d04c57c0ea3c7ac3b20a3314a4485c24e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Belilles\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\13.0\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\annotations-13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="C:\Users\Belilles\Desktop\KotlinSQLite-master\app\build\intermediates\pre-dexed\debug\annotations-13.0_828922c90316d96b0fbf32e759ed7b7b214e6ce5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Belilles\.android\build-cache\9696c36d58be23a6eb2d9b316ae368c22b24f863\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dd2e7a567260ca4e40c09ba330f4f2d318660554">
+        <dex dex="C:\Users\Belilles\Desktop\KotlinSQLite-master\app\build\intermediates\pre-dexed\debug\classes_b95e87b320955a1bba9a39a5ce42cb5d15701c9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Belilles\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0\constraint-layout-solver-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="90493f2ea15ff3f57416368123e5d4d180e0c6fd">
+        <dex dex="C:\Users\Belilles\Desktop\KotlinSQLite-master\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0_80acb473a504abbb756b67bb91a8a567bd5b2fe7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Belilles\.android\build-cache\4f3efe936ff1c6e708fc61918e18f4f23fdf92e5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d30ac0c26495d7264529e333cec806eec64dd6f3">
+        <dex dex="C:\Users\Belilles\Desktop\KotlinSQLite-master\app\build\intermediates\pre-dexed\debug\classes_89b0c11f811e57597fd493f5005b824807bc25fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Belilles\.android\build-cache\cb37a2c443959f4200cd5dc7b7f88e40f38a62fd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\Belilles\Desktop\KotlinSQLite-master\app\build\intermediates\pre-dexed\debug\classes_87885395bdec52623d12b3e139779517481e3b44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Belilles\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-jre7\1.1.51\8b5933578dc55f32cfc1a25f1db6371e4161fb8f\kotlin-stdlib-jre7-1.1.51.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8b5933578dc55f32cfc1a25f1db6371e4161fb8f">
+        <dex dex="C:\Users\Belilles\Desktop\KotlinSQLite-master\app\build\intermediates\pre-dexed\debug\kotlin-stdlib-jre7-1.1.51_82acaf8f53b5a39ae2dea516bf08b8159709cef7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Belilles\.android\build-cache\8a273ae64aee364208769477eb20e5e4e50d44cb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d20672631818754557255886d3feb43e7fe75a66">
+        <dex dex="C:\Users\Belilles\Desktop\KotlinSQLite-master\app\build\intermediates\pre-dexed\debug\classes_cf0899a7853c09089b9176343ec9545594aec15d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Belilles\.android\build-cache\5602b2533d2e3e4b2e9f51be8a7b4bd8d27afe9f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b102f892442929c3457de1ef6a94f5dda3dd8864">
+        <dex dex="C:\Users\Belilles\Desktop\KotlinSQLite-master\app\build\intermediates\pre-dexed\debug\classes_8aa9f6fea5a422c1a632ba9d3b7c544c869f1c4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Belilles\.android\build-cache\58c2e07a32bc1921cfe5b45c036f7544192184c7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="db0171d21d064bab7ad72685f3c7df40544b03a8">
+        <dex dex="C:\Users\Belilles\Desktop\KotlinSQLite-master\app\build\intermediates\pre-dexed\debug\classes_6f343bf8119eb1d2129b0c08d29016347309672d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Belilles\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\13.0\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\annotations-13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="C:\Users\Belilles\Desktop\KotlinSQLite-master\app\build\intermediates\pre-dexed\debug\annotations-13.0_828922c90316d96b0fbf32e759ed7b7b214e6ce5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Belilles\.android\build-cache\6e149e40722c73dc6f387d69f47b44b92c7d6ae2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cbb26a4f659b17abc1f75ff735a607aa299697ac">
+        <dex dex="C:\Users\Belilles\Desktop\KotlinSQLite-master\app\build\intermediates\pre-dexed\debug\classes_5720de7bf98142838ce6384207fd201b3ae039bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Belilles\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.1.51\e34fe80c9714240525f665113dd3749415515655\kotlin-stdlib-1.1.51.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e34fe80c9714240525f665113dd3749415515655">
+        <dex dex="C:\Users\Belilles\Desktop\KotlinSQLite-master\app\build\intermediates\pre-dexed\debug\kotlin-stdlib-1.1.51_eb8c792c1a9ba51297df94a33de2d5035a17d051.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Belilles\.android\build-cache\8a273ae64aee364208769477eb20e5e4e50d44cb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d20672631818754557255886d3feb43e7fe75a66">
+        <dex dex="C:\Users\Belilles\Desktop\KotlinSQLite-master\app\build\intermediates\pre-dexed\debug\classes_cf0899a7853c09089b9176343ec9545594aec15d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Belilles\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-jre7\1.1.51\8b5933578dc55f32cfc1a25f1db6371e4161fb8f\kotlin-stdlib-jre7-1.1.51.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8b5933578dc55f32cfc1a25f1db6371e4161fb8f">
+        <dex dex="C:\Users\Belilles\Desktop\KotlinSQLite-master\app\build\intermediates\pre-dexed\debug\kotlin-stdlib-jre7-1.1.51_82acaf8f53b5a39ae2dea516bf08b8159709cef7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Belilles\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0\constraint-layout-solver-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="90493f2ea15ff3f57416368123e5d4d180e0c6fd">
+        <dex dex="C:\Users\Belilles\Desktop\KotlinSQLite-master\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0_80acb473a504abbb756b67bb91a8a567bd5b2fe7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Belilles\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.0.0\db09a97f4f0db8892c1a0111a4b966f97920d082\support-annotations-26.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="db09a97f4f0db8892c1a0111a4b966f97920d082">
+        <dex dex="C:\Users\Belilles\Desktop\KotlinSQLite-master\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0_62c1b1dc1464577ca46fe74ff08de196052192c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Belilles\.android\build-cache\038ec08ba432491364406b4e6629b45120e19e98\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Belilles\Desktop\KotlinSQLite-master\app\build\intermediates\pre-dexed\debug\classes_ba7095c37521e09bf1e21ec2fd282c03b507b506.jar" />
+    </item>
+
+</items>

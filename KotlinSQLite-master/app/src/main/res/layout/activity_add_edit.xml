@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        tools:targetApi="jelly_bean">
+
+        <EditText
+            android:id="@+id/input_date"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Fecha..."
+            android:inputType="text"
+            tools:ignore="TextFields"
+            tools:targetApi="jelly_bean" />
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <Spinner
+            android:id="@+id/mySpinner"
+            android:layout_width="224dp"
+            android:layout_height="34dp"
+            android:backgroundTint="@color/colorPrimary"
+            android:hint="Exercise..." />
+
+
+        <Button
+            android:id="@+id/addExercise"
+            android:layout_width="112dp"
+            android:layout_height="35dp"
+            android:layout_marginLeft="230dp"
+            android:layout_marginTop="-35dp"
+            android:onClick="addExercise"
+            android:background="@color/colorPrimary"
+            android:text="Añadir" />
+
+    </android.support.design.widget.TextInputLayout>
+
+
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:targetApi="jelly_bean">
+
+        <EditText
+            android:id="@+id/input_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Ejercicio..."
+            android:inputType="text"
+            tools:ignore="TextFields"
+            tools:targetApi="jelly_bean" />
+    </android.support.design.widget.TextInputLayout>
+
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:targetApi="jelly_bean">
+
+        <EditText
+            android:id="@+id/input_desc"
+            android:layout_width="match_parent"
+            android:layout_height="195dp"
+            android:hint="Detalles..."
+            android:inputType="textMultiLine"
+            tools:ignore="TextFields"
+            tools:targetApi="jelly_bean" />
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.v7.widget.SwitchCompat
+        android:id="@+id/swt_completed"
+        android:layout_width="131dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:text="Duplicar"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="18sp"
+        tools:targetApi="jelly_bean"
+        android:visibility="gone"/>
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btn_save"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="12dp"
+        android:background="@color/colorPrimary"
+        android:layout_marginBottom="5dp"
+        android:text="Guardar"
+        tools:targetApi="jelly_bean" />
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btn_delete"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="12dp"
+        android:background="@color/colorPrimary"
+        android:text="Borrar"
+        tools:targetApi="jelly_bean"
+        android:visibility="gone"/>
+
+
+</LinearLayout>

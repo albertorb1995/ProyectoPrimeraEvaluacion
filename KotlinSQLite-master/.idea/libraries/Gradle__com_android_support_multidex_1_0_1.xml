@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:multidex-1.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/cb37a2c443959f4200cd5dc7b7f88e40f38a62fd/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/cb37a2c443959f4200cd5dc7b7f88e40f38a62fd/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
